@@ -19,4 +19,8 @@ npm install (This command installs a package, and any packages that it depends o
 
 
 node index.js (Enjoy the score)
-npm install nodemon and later nodemon index.js
+
+
+npm install nodemon and later
+
+nodemon index.js
