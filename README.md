@@ -8,7 +8,7 @@ Download npm using https://www.npmjs.com/get-npm
 
 Download/Clone the repository
 open node and direct to your folder
-npm insatll (This command installs a package, and any packages that it depends on. By default, npm install will install all modules listed as dependencies in package.json.)
+npm install (This command installs a package, and any packages that it depends on. By default, npm install will install all modules listed as dependencies in package.json.)
 
 
 
