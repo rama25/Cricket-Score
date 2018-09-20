@@ -24,3 +24,6 @@ node index.js (Enjoy the score)
 npm install nodemon and later
 
 nodemon index.js
+
+
+
